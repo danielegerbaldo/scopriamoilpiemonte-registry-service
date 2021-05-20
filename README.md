@@ -1,0 +1,2 @@
+# scopriamoilpiemonte-registry-service
+ScopriamoIlPiemonte Registry Microservice Repository
